@@ -1,9 +1,5 @@
-_config.yml:
-
-remote_theme: pages-themes/leap-day@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-gem "github-pages", group: :jekyll_plugins
-
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: Leap Day theme
+description: Leap Day is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-leap-day
