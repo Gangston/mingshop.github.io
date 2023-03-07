@@ -1,1 +1,1 @@
-# mingshop.http-github.io
+# mingshop.github.io
